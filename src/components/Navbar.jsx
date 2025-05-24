@@ -5,10 +5,10 @@ import logo from "../assets/logo.jpg"
 
 const Navbar = () => {
   return (
-    <nav className="mb-20 flex item-center justify-between py-6">
+    <nav className="mb-20 fixed top-0 left-0 w-full z-50 flex items-center justify-between px-12 py-4 bg-gradient-to-b from-[#0b0b0d] via-[#0e0e15] to-[#13131ddf] text-white">
         <div className="flex flex-shrink-0 items-center text-2xl gap-1">
             <img src={logo} alt="logo" className="size-12 rounded-2xl" />
-            <a href="">Harshi Jain</a>
+            <a href="#hero">Harshi Jain</a>
         </div>
         <div className="pl-140 m-6 flex items-center justify-center gap-4 ">
             <a href="">About</a>
