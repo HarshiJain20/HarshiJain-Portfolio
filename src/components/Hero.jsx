@@ -3,7 +3,7 @@ import profilePic from "../assets/profilePic.jpg"
 const Hero = () => {
   return (
     <div id="hero">
-      <div className="border-b border-neutral-900 pb-4 lg:mb-60 lg:pt-48">
+      <div className="border-b border-neutral-900 pb-4 lg:mb-35 lg:pt-48">
         <div className="flex flex-wrap">
           <div className="w-full lg:w-1/2">
             <div className="flex flex-col items-center lg:items-start">
