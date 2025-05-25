@@ -12,7 +12,7 @@ const Navbar = () => {
         </div>
         <div className="pl-140 m-6 flex items-center justify-center gap-4 ">
             <a href="#about">About</a>
-            <a href="">Skills</a>
+            <a href="#skills">Skills</a>
             <a href="">Work</a>
             <a href="">Project</a>
             <a href="">Contact</a>
