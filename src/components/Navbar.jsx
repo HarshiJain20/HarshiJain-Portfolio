@@ -11,7 +11,7 @@ const Navbar = () => {
             <a href="#hero">Harshi Jain</a>
         </div>
         <div className="pl-140 m-6 flex items-center justify-center gap-4 ">
-            <a href="">About</a>
+            <a href="#about">About</a>
             <a href="">Skills</a>
             <a href="">Work</a>
             <a href="">Project</a>
