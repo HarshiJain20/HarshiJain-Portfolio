@@ -10,12 +10,12 @@ const About = () => {
       <div className="flex flex-wrap">
         <div className="w-full lg:w-1/2 lg:p-8">
           <div className="flex items-center justify-center">
-            <img src={AboutPhoto} alt="Photo" className="lg:size-100 rounded-2xl" />
+            <img src={AboutPhoto} alt="Photo" className="lg:size-100 sm:w-80 sm:h-80 rounded-2xl" />
           </div>
         </div>
         <div className="w-full lg:w-1/2">
             <div className="flex justify-center lg:justify-start lg:items-center h-full">
-              <p className="m-2 max-w-xl p-6 px-10 text-center lg:text-left">
+              <p className="m-2 max-w-xl lg:p-6 lg:px-10 text-start lg:text-left sm:px-1 sm:p-2 pt-6">
                 Hi! I'm Harshi Jain, a Computer Science undergraduate at Pandit
                 Deendayal Energy University with a passion for building
                 interactive and user-friendly web applications. I enjoy bringing
