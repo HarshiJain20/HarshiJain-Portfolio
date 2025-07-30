@@ -17,14 +17,14 @@ export default function Navbar() {
         <div className="hidden md:flex lg:pl-80 items-center gap-6 m-6">
           <a href="#about">About</a>
           <a href="#skills">Skills</a>
-          <a href="#work">Work</a>
+          <a href="#workandeducation">Work</a>
           <a href="#projects">Project</a>
           <a href="#contact">Contact</a>
         </div>
 
         <div className="hidden md:flex items-center gap-4 text-2xl">
           <a href="https://www.linkedin.com/in/harshi-jain-b72903288" target="_blank"><FaLinkedin /></a>
-          <a href="https://github.com/JainHarshi30" target="_blank"><FaGithub /></a>
+          <a href="https://github.com/HarshiJain20" target="_blank"><FaGithub /></a>
           <a href="https://www.instagram.com/jainharshi_" target="_blank"><FaInstagram /></a>
         </div>
 
