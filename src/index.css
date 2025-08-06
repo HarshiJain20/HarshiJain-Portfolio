@@ -4,3 +4,55 @@
 :root{
   font-family: "Inter", sans-serif;
 }
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes float2 {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+@keyframes float3 {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-12px);
+  }
+}
+
+@keyframes float4 {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-float2 {
+  animation: float2 3.5s ease-in-out infinite;
+}
+
+.animate-float3 {
+  animation: float3 2.8s ease-in-out infinite;
+}
+
+.animate-float4 {
+  animation: float4 3.2s ease-in-out infinite;
+}
