@@ -15,6 +15,26 @@ const timelineData = [
     type: "work",
     icon: <FaBriefcase />,
     title: "Web Developer Intern",
+    place: "iNav Labs",
+    duration: "August 2025 - Present",
+    grade: "",
+    description:
+      "Working as a full stack intern on a food delivery app, contributing to both frontend and backend development. Implemented new features, optimized user experience, and collaborated with the team to deliver scalable solutions.",
+  },
+  {
+    type: "work",
+    icon: <FaBriefcase />,
+    title: "Open Source Contributor",
+    place: "GirlScript Summer of Code (GSSoC)",
+    duration: "August 2025 – Present",
+    grade: "",
+    description:
+      "Recently selected as a contributor for GSSoC 2025. Actively participating in open source projects by resolving issues, implementing new features, and collaborating with mentors and fellow contributors to make meaningful contributions to the community.",
+  },
+  {
+    type: "work",
+    icon: <FaBriefcase />,
+    title: "Web Developer Intern",
     place: "Prodigy InfoTech (Remote)",
     duration: "July 2025",
     grade: "",
