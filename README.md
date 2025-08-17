@@ -137,20 +137,4 @@ The website is fully responsive and optimized for:
 2. Add deploy script to package.json
 3. Run: `npm run deploy`
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Contact
-
-- **Email**: harshi.r.jain2005@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-
----
-
 **Built with ❤️ by Harshi Jain**
