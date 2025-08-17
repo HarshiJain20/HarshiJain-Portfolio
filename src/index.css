@@ -41,6 +41,17 @@
   }
 }
 
+@keyframes modal {
+  0% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
 .animate-float {
   animation: float 3s ease-in-out infinite;
 }
@@ -55,4 +66,8 @@
 
 .animate-float4 {
   animation: float4 3.2s ease-in-out infinite;
+}
+
+.animate-modal {
+  animation: modal 0.3s ease-out;
 }

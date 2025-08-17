@@ -13,7 +13,8 @@ const Contact = () => {
   return (
     <div className='border-b border-neutral-800 pb-24 pt-7' id='contact'>
       <h1 className="mt-20 text-center text-4xl">Contact</h1>
-      <p className='text-gray-400 text-center mt-4 mb-20'>I'd love to hear from you-reach out for any opportunities or questions!</p>
+      <p className='text-gray-400 text-center mt-4'>I'd love to hear from you-reach out for any opportunities or questions!</p>
+      <p className='text-gray-400 text-center mb-20'>Email: harshi.r.jain2005@gmail.com</p>
       
       <div className="flex justify-center items-center ">
         <div className="rounded-2xl border-4 border-neutral-800 p-4 max-w-md w-full">

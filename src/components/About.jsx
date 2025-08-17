@@ -56,16 +56,15 @@ const About = () => {
                 : 'opacity-0 translate-x-8'
             }`}>
               <p className="m-2 max-w-xl lg:p-6 lg:px-10 text-start lg:text-left sm:px-1 sm:p-2 pt-6">
-                Hi! I'm Harshi Jain, a Computer Science undergraduate at Pandit
-                Deendayal Energy University with a passion for building
-                interactive and user-friendly web applications. I enjoy bringing
-                ideas to life using technologies like React.js, JavaScript, and
-                HTML/CSS. Whether it's creating real-time weather apps or
-                developing AI-driven analytics modules, I love solving problems
-                and continuously exploring new tools and frameworks. Alongside
-                coding, I have a creative side—I'm into video editing, Canva
-                design, singing, and dancing. I'm always eager to learn, grow,
-                and create meaningful digital experiences.
+                Hi! I'm Harshi Jain, a passionate Full Stack Developer and Computer Science undergraduate at Pandit
+                Deendayal Energy University. I specialize in building modern, responsive web applications using React.js, 
+                Node.js, and modern JavaScript frameworks. Currently working as a Full Stack Intern at iNav Labs, 
+                I contribute to both frontend and backend development of a food delivery app, implementing new features 
+                and optimizing user experiences. I'm also an active open source contributor, recently selected for 
+                GirlScript Summer of Code (GSSoC) 2025, where I collaborate on meaningful projects and contribute 
+                to the developer community. My tech stack includes React, JavaScript, Node.js, HTML/CSS, Tailwind CSS, 
+                and Git. Beyond coding, I enjoy video editing, Canva design, and creative pursuits. I'm always eager 
+                to learn new technologies and create impactful digital solutions that solve real-world problems.
               </p>
             </div>
           </div>
